@@ -1,0 +1,9 @@
+# Ignore the dataset folder so large CSVs aren't added to git
+Train_test_data/
+
+# Common Python ignores (optional)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.ipynb_checkpoints/
